@@ -1,3 +1,5 @@
+<img src="https://github.com/it14019/exchange-rate-reader/blob/master/ezgif-2-73e47cc307c4.gif"/>
+
 **Instructions:**
 1. clone repository
 2. change directory to laravel:
