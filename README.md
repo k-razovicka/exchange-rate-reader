@@ -2,8 +2,8 @@
 
 **Instructions:**
 1. clone repository
-2. change directory to laravel:
-`cd laravel`
+2. change directory to 'exchange-rate-reader':
+`cd exchange-rate-reader`
 3. install composer dependencies:
 `composer install`
 4. install NPM dependencies:
